@@ -8,3 +8,7 @@ No terminal digitar os comandos :
 - next,next, finish
 - cat /path/id_rsa.pub
 -cat /path/id_rsa.pub
+
+## autor
+- nome: Vinícius 
+- turma: A
